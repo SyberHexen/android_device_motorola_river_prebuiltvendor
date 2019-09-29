@@ -68,7 +68,7 @@ PRODUCT_GMS_CLIENTID_BASE := android-motorola
 
 PRODUCT_BUILD_PROP_OVERRIDES += \
         PRODUCT_NAME=river \
-        PRIVATE_BUILD_DESC="river-user 9 PPOS29.114-16-5-2 6e14b release-keys"
+        PRIVATE_BUILD_DESC="river-user 9 PPO29.114-134 fee207 release-keys"
 
 # Set BUILD_FINGERPRINT variable to be picked up by both system and vendor build.prop
-BUILD_FINGERPRINT := motorola/river/river:9/PPOS29.114-16-5-2/6e14b:user/release-keys
+BUILD_FINGERPRINT := motorola/river/river:9/PPO29.114-134/fee207:user/release-keys
