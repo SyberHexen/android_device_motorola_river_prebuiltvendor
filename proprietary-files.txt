@@ -52,6 +52,17 @@ lib64/libqti_performance.so
 lib64/libqti-perfd-client_system.so
 lib64/vendor.qti.hardware.perf@1.0.so
 
+# Prima WLAN (built from source)
+bin/android.hardware.wifi@1.0-service|96b6da060a4836da448fb9320d7e46414dc03262
+bin/hostapd|505e352ed664633558379e6a2f53232b43dc3466
+bin/wpa_supplicant|c069339da60bf304eb1f34bb704c6d7ce05b446e
+lib/libcld80211.so|db4540393c334ab3e5daed7adad9493f72185066
+lib/libwpa_client.so|e2faeba75eed907215f791c0d7e2ee01da60c187
+lib64/libcld80211.so|2db84be88a058fcd0bb624231b2da1a6bbddd286
+lib64/libwifi-hal.so|92f0a0d6ae26bfb5c2d7c3486bfb8b715f3b089b
+lib64/libwpa_client.so|cbb9a2c8dc240cc3b5329a901eab949afb22f7c5
+
+
 # SDM
 lib64/libsdm-disp-apis.so
 
